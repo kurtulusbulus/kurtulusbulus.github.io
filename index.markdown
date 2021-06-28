@@ -7,7 +7,7 @@ layout: home
 
 ![image](/assets/me_2_small.jpg#center)
 
-Hi! My name is Kurtuluş. This is the website where I share my research, background and a couple 
-of blog posts. I'm interested in machine learning and computational biology, especially 
-computational neuroscience. 
+Hi! My name is Kurtuluş. This is my personal website, where I aim to share my research, background and ,hopefully, a 
+series of blog posts about machine learning and neuroscience. My main research interests include machine/deep learning, computational neuroscience 
+and neural engineering.
  
