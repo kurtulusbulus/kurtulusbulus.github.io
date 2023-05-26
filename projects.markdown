@@ -4,6 +4,15 @@ title: Projects
 permalink: /projects/
 ---
 
+**pySPAD: a unified platform for kilohertz imaging in neuroscience**
+
+Neuroimaging can greatly benefit from the utilization of Single Photon Avalanche Diodes (SPADs) based cameras. These cameras offer the advantage of operating at exceptionally high frame rates, making them ideal for optical imaging with genetically encoded voltage sensors (GEVIs). To facilitate the seamless capture, processing, and real-time recording of high frame rate camera data, we have developed an open-source Python-based framework. Within this framework, we have created a user-friendly Graphical User Interface (GUI).
+
+Our GUI enables users to effortlessly capture, process, and record high frame rate camera data in real-time. Additionally, our platform includes various other modules, allowing for offline analysis of high-dimensional SPAD-camera data. For those interested in accessing our framework, the GitHub repository can be found at link (https://github.com/MattNolanLab/pySPAD), while the documentation can be accessed online at link [link](https://pyspad.readthedocs.io/en/main/) .
+
+
+
+
 **Machine Learning for Large-Scale Extracellular Neural Recording Analysis**
 
  
@@ -14,6 +23,13 @@ The project consisted of using variational autoencoder to localize individual sp
 Once the localization was achieved, each spikes were clustered based on their waveform shapes and location information. 
 At the end, each detected spikes were assigned to its true neuron using micrograph image provided with the data. 
 The main contribution of the project was to develop a novel validation method for spike sorting algorithms.  
+
+
+**Deep learning for Nickel-price forecasting** 
+
+The application of deep learning algorithms holds immense potential in the field of time-series forecasting. In a collaborative effort, I partnered with researchers from the Mining Engineering department at Cukurova University and the Electrical and Electronics Engineering department at Adana Alparslan Turkes Science and Technology University. Together, we aimed to predict short-term Nickel prices within a medium- to long-term horizon.
+
+My primary contribution to this project involved the design and implementation of deep learning algorithms, specifically LSTM and GRU networks, tailored for time-series forecasting. The methods employed and the resulting findings of our work have been documented in a paper published in the Journal of Resources Policy. The paper, which provides comprehensive details, can be accessed online via the following link: [link](https://www.sciencedirect.com/science/article/abs/pii/S0301420722003506). 
 
 
 

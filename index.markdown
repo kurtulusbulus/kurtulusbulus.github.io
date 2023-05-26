@@ -7,7 +7,7 @@ layout: home
 
 ![image](/assets/me_2_small.jpg#center)
 
-Hi! My name is Kurtuluş. This is my personal website, where I aim to share my research, background and ,hopefully, a 
-series of blog posts about machine learning and neuroscience. My main research interests include machine/deep learning, computational neuroscience 
-and neural engineering.
+Hello there! I go by the name Kurtuluş. Welcome to my personal website, a space dedicated to showcasing my research, background, and perhaps even a collection of blog posts focusing on the captivating realms of machine learning and neuroscience. Within these domains, my primary research interests lie in the realms of machine learning, deep learning, computational neuroscience, and neuroimaging.
+
+I look forward to sharing my insights and discoveries with you, as we delve into the fascinating intersection of these fields. Stay tuned for exciting content related to machine learning, neuroscience, and more!
  

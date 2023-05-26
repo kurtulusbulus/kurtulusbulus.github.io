@@ -3,21 +3,16 @@ layout: page
 title: About
 permalink: /about/
 ---
-I am currently a PhD candidate at Centre for Discovery Brain Sciences within The University of Edinburgh, supervised by Prof. Matthew Nolan, 
-Dr. Istvan Gyongy and Dr. Srinjoy Mitra. My PhD project involves the development of ultra-high speed photometry systems to investigate circuit mechanisms of memory consolidation 
-in hippocampus. I obtained my master degree from School of Informatics, where a various types of computational and biological courses were involved.
- My master dissertation was using machine learning to analyse extracellular
-neural recordings. Prior to Edinburgh, I was a graduate research intern at University of Aveiro in Portugal on summer 2019. Throughout my stay in Aveiro, a small project, which 
-included machine learning and simulation for smart parking lots, were accomplished. 
+I am currently pursuing a Ph.D. at the Centre for Discovery Brain Sciences, located within The University of Edinburgh. Under the guidance of Prof. Matthew Nolan, Dr. Istvan Gyongy, and Dr. Srinjoy Mitra, my research focuses on the development of ultra-high-speed photometry systems to investigate neural activity. Prior to this, I completed my master's degree at the School of Informatics, where I undertook a diverse range of computational and biological courses.
 
-Between 2017 and 2019, I worked as a research/teaching assistant at Adana Science and Technology University. As a research assistant, 
-I had a chance to take part in research projects, which are related with machine learning, image processing and internet of things.
+During my master's dissertation, I utilized machine learning techniques to analyze extracellular neural recordings. Before joining the University of Edinburgh, I worked as a graduate research intern at the University of Aveiro in Portugal during the summer of 2019. In Aveiro, I successfully completed a small project involving machine learning and simulation for smart parking lots.
 
-In the long term, my research goal is to develop advance tools in order to accelerate experimental biology, especially focus on neuroscience.
- I personally believe that engineering methods along with computational
-science are promising to shed light on our understanding of human cortex. 
+Between 2017 and 2019, I served as a research/teaching assistant at Adana Science and Technology University. This role provided me with valuable experience in research projects related to machine learning, image processing, and the Internet of Things.
 
-Before 2017, I co-founded a start-up company by winning a small capital from Turkish Ministry of Science. The project idea was based 
-on development of a smart electronic drum system. The project is still under the development.   
+In the long term, my research aspirations revolve around the development of advanced imaging tools that can accelerate experimental biology, with a particular focus on neuroscience. I firmly believe that the integration of engineering methods and computational science holds great promise in enhancing our understanding of the cortex.
 
-I am also the recipent of Turkish Ministry of Education Scholarship for graduate study abroad. My all postgraduate study and research are funded by Turkish Ministry of Education. 
+Prior to 2017, I co-founded a startup company after securing funding from the Turkish Ministry of Science. The core idea behind the project involved the development of a smart electronic drum system, which is still in progress.
+
+I am honored to be a recipient of the Turkish Ministry of Education Scholarship for graduate study abroad. All of my postgraduate studies and research are generously funded by the Turkish Ministry of Education.
+
+During my leisure time, I enjoy visiting the gym, exploring local coffee shops, and embarking on travel adventures.
