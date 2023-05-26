@@ -8,7 +8,7 @@ permalink: /projects/
 
 Neuroimaging can greatly benefit from the utilization of Single Photon Avalanche Diodes (SPADs) based cameras. These cameras offer the advantage of operating at exceptionally high frame rates, making them ideal for optical imaging with genetically encoded voltage sensors (GEVIs). To facilitate the seamless capture, processing, and real-time recording of high frame rate camera data, we have developed an open-source Python-based framework. Within this framework, we have created a user-friendly Graphical User Interface (GUI).
 
-Our GUI enables users to effortlessly capture, process, and record high frame rate camera data in real-time. Additionally, our platform includes various other modules, allowing for offline analysis of high-dimensional SPAD-camera data. For those interested in accessing our framework, the GitHub repository can be found at link (https://github.com/MattNolanLab/pySPAD), while the documentation can be accessed online at link [link](https://pyspad.readthedocs.io/en/main/) .
+Our GUI enables users to effortlessly capture, process, and record high frame rate camera data in real-time. Additionally, our platform includes various other modules, allowing for offline analysis of high-dimensional SPAD-camera data. For those interested in accessing our framework, the GitHub repository can be found at[link](https://github.com/MattNolanLab/pySPAD), while the documentation can be accessed online at link [link](https://pyspad.readthedocs.io/en/main/).
 
 
 
