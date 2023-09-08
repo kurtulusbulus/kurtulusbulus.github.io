@@ -222,7 +222,7 @@ As you'll likely want to venture out and explore other parts of the UK, the High
 These spots offer a wonderful blend of history, nature, and culture, allowing you to take a break from your studies and immerse yourself in the beauty of Edinburgh and Scotland.
 
 
-![image](/assets/highland.jpg#center)
+![image](/assets/highland.JPG#center)
 
 
 ## Tools
