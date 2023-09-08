@@ -1,8 +1,8 @@
 ---
-# Feel free to add content and custom Front Matter to this file.
-# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-
-layout: home
+layout: post
+title:  "Edinburgh"
+date:   2023-09-08 13:51:51 +0300
+categories: jekyll update
 ---
 It's been nearly four years since I relocated to Edinburgh to embark on my postgraduate journey. It's amazing how time has flown by; I can still vividly recall the anxiety I felt as I prepared to move to this new city and adapt to a different education system. Thankfully, I not only overcame those initial fears but also had the most incredible experiences in one of the world's most beautiful cities.
 
