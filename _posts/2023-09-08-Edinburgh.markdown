@@ -169,13 +169,13 @@ These coffee shops offer a diverse range of coffee experiences, whether you're s
 
 Edinburgh, along with Scotland as a whole, boasts a plethora of breathtaking tourist attractions that you may already be aware of. Here's a list of my favorite spots within the city where you can take a break from your studies and relax:
 
-1. **Calton Hill**:
+**Calton Hill**:
 
 This small hill is adorned with historical landmarks and is often the first thing that comes up when you search for Edinburgh on Google. Don't miss the opportunity to visit and capture a stunning sunset view!
 
 ![image](/assets/calton_hill.jpg#center)
 
-2. **Arthur's Seat**:
+**Arthur's Seat**:
 
 Situated at the heart of Edinburgh, Arthur's Seat is a slightly higher hill that requires a bit of hiking, taking about an hour for moderate walkers. It offers another excellent spot for witnessing a breathtaking sunset and panoramic views of the city.
 
@@ -183,7 +183,7 @@ Situated at the heart of Edinburgh, Arthur's Seat is a slightly higher hill that
 ![image](/assets/arthur_seat.JPG#center)
 
 
-3. **Princes Street**:
+**Princes Street**:
 
 This iconic street runs parallel to the castle and a vast garden. It provides fantastic photo opportunities as it offers sweeping views of many of Edinburgh's famous landmarks. Take a leisurely walk from Haymarket to Calton Hill, where you'll have a stunning view of Edinburgh Castle on your right, and a plethora of charming restaurants, shops, and cafes on your left.
 
@@ -191,32 +191,31 @@ This iconic street runs parallel to the castle and a vast garden. It provides fa
 
 
 
-4. **Edinburgh Castle**:
+**Edinburgh Castle**:
 
 A must-visit during your time in Edinburgh. Stroll from the Royal Mile to the Castle, where you'll be treated to a magnificent view of the city, particularly the Old Town. You can also explore the historic interior of the Castle, although there is an entrance fee. Keep in mind that it's considered bad luck to visit the Castle before your graduation!
 
 ![image](/assets/vennel_stairs.jpg#center)
 
 
-5. **Royal Mile**:
+**Royal Mile**:
 
 This lengthy street connects the Old Town to the Castle and is home to numerous historical buildings. While it can get crowded as it's a top tourist destination, an early morning visit is sure to leave you awe-inspired.
 
 
 
-6. **Pentland Hills Regional Park**:
+**Pentland Hills Regional Park**:
 
 If you're a fan of serenity and lush landscapes, Scotland offers an array of options. Pentland Hills Regional Park is conveniently located near the city center, accessible by bus from Princes Street. It boasts vast green expanses with picturesque small lakes at its center. You'll even encounter farm animals, immersing yourself in a tranquil experience.
-7. Museums:
+
+**Museums**
 
 For museum enthusiasts, Edinburgh offers a diverse range of options, including the National Museum of Scotland, National Gallery, National Museum of Modern Arts, and Surgeon Halls, among many others. You can plan to explore a different museum each weekend.
-
 
 ![image](/assets/morning_edinburgh.jpg#center)
 
 
-
-8. **Highlands and the Rest of the UK**:
+**Highlands and the Rest of the UK**:
 
 As you'll likely want to venture out and explore other parts of the UK, the Highlands might be your first choice. To discover the stunning landscapes and islands of Scotland, consider checking out ESN trips, which offer fantastic options. Alternatively, you can explore affordable daily trips with the tour organization International Student Tours in Scotland.
 These spots offer a wonderful blend of history, nature, and culture, allowing you to take a break from your studies and immerse yourself in the beauty of Edinburgh and Scotland.
@@ -229,15 +228,15 @@ These spots offer a wonderful blend of history, nature, and culture, allowing yo
 
 There are several handy tools that you might find beneficial. Let me list them for you:
 
-1. **Citymapper App**:
+**Citymapper App**:
 
 This app offers a comprehensive list of available transportation routes. I recommend using Citymapper instead of Google Maps because it provides more up-to-date information. I've personally used it in both London and Edinburgh, and it's proven to be much more reliable than Google Maps for navigating these cities.
 
-2. **EUSA App**:
+**EUSA App**:
 
 Be sure to download the EUSA app, as it offers valuable information about events and simplifies your life when you need to make purchases at university cafes.
 
-3. **Skyscanner**:
+**Skyscanner**:
 
 Skyscanner is a fantastic tool for finding affordable flight tickets to a wide range of destinations from Edinburgh and other parts of the UK. You can prepare to explore some of the best European destinations with flights costing as little as £9. Don't forget to visit their website to check out the deals.
 
