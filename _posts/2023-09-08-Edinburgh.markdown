@@ -19,10 +19,10 @@ One valuable resource that I stumbled upon during my time in Edinburgh, which I 
 
 Other options to consider include shared flats, private accommodations, or renting a new flat on your own. If you're open to exploring these alternatives, the following websites can be helpful:
 
-[Rightmove](https://www.rightmove.co.uk/)
-[SpareRoom](https://www.spareroom.co.uk/flatshare/edinburgh)
-Facebook Marketplace
-Meadows Facebook Group
+[Rightmove](https://www.rightmove.co.uk/) \
+[SpareRoom](https://www.spareroom.co.uk/flatshare/edinburgh) \
+Facebook Marketplace \
+Meadows Facebook Group \
 
 These resources should provide you with a variety of housing options to consider for your stay in Edinburgh.
 
@@ -212,7 +212,7 @@ As you'll likely want to venture out and explore other parts of the UK, the High
 These spots offer a wonderful blend of history, nature, and culture, allowing you to take a break from your studies and immerse yourself in the beauty of Edinburgh and Scotland.
 
 
-![image](/assets/highland.JPG#center)
+![image](/assets/highland.jpg#center)
 
 
 ## Tools
