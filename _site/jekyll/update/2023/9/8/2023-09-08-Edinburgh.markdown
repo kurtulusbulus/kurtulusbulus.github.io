@@ -139,7 +139,8 @@ One of the highlights of my time studying in Edinburgh has been exploring the lo
 
 2. **Krem Karamel**: Though a bit farther from the city center, it's worth the trip, especially if you're visiting the Royal Botanic Garden. I highly recommend trying the San Sebastian; the owner prepares it to perfection.
 
-3. **Coffee Angel**: Located conveniently in the central area, right next to Klimanjaro, Coffee Angel is a small, independent business serving quality coffee. They offer Wi-Fi, and the staff and owners are incredibly friendly.
+3. **Flatbread**: Superb flatbreads paired with delicious coffee and desserts! Definitely worth checking out.
+
 
 4. **Room and Rumours**: Found near Waverley train station, this café not only brews its own coffee but also boasts excellent desserts. Due to its cozy size, it's a good idea to make a reservation.
 
@@ -160,6 +161,9 @@ One of the highlights of my time studying in Edinburgh has been exploring the lo
 12. **Soderbeg**: A popular coffee chain with numerous locations throughout the city, Soderbeg is known for its delicious pastries.
 
 13. **Casa Amiga**: Located on Leith Walk, Casa Amiga is a Portuguese café where you can savor pastéis de nata and delightful coffee.
+
+14. **Coffee Angel**: Located conveniently in the central area, right next to Klimanjaro, Coffee Angel is a small, independent business serving quality coffee. They offer Wi-Fi, and the staff and owners are incredibly friendly.
+
 
 These coffee shops offer a diverse range of coffee experiences, whether you're seeking a peaceful place to study, a cozy corner to relax, or a delightful pastry to accompany your brew. Enjoy your coffee explorations in Edinburgh!
 
