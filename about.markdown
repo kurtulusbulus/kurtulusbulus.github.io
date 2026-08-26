@@ -8,7 +8,7 @@ I am a postdoctoral researcher in Biomedical Engineering at the University of Gl
 
 I completed my PhD in Neuroscience at the University of Edinburgh, where I worked on advanced imaging approaches for measuring neural activity. Before that, I completed an MSc in Informatics with a focus on neuroinformatics at the University of Edinburgh.
 
-Earlier in my career, I worked on projects involving machine learning, image processing, simulation and Internet-of-Things systems. This multidisciplinary training has shaped the way I approach imaging problems: by considering measurement hardware, physical modelling and data analysis together.
+Earlier in my career, I worked on projects involving machine learning, image processing, and Internet-of-Things systems.
 
 ## Research interests
 
@@ -19,4 +19,4 @@ Earlier in my career, I worked on projects involving machine learning, image pro
 - Signal processing and physical modelling
 - Machine learning for scientific data
 
-Outside research, I enjoy training at the gym, exploring coffee shops and travelling.
+Outside research, I enjoy reading, exploring coffee shops and travelling.
