@@ -1,8 +1,8 @@
 title: Kurtuluş Buluş
 email: kurtulusbulus at gmail dot com
 description: >-
-  Postdoctoral researcher working on SPAD imaging, biomedical optics,
-  time-resolved Raman spectroscopy and computational imaging.
+  Postdoctoral researcher working across biomedical imaging, photonics,
+  optical instrumentation and computational methods.
 
 baseurl: ""
 url: "https://kurtulusbulus.github.io/"
@@ -11,7 +11,6 @@ github_username: kurtulusbulus
 
 header_pages:
   - research.markdown
-  - projects.markdown
   - publications.markdown
   - about.markdown
   - blog.markdown
