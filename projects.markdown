@@ -4,53 +4,68 @@ title: Projects
 permalink: /projects/
 ---
 
-**pySPAD: a unified platform for kilohertz imaging in neuroscience**
+## Featured projects
 
-Neuroimaging can greatly benefit from the utilization of Single Photon Avalanche Diodes (SPADs) based cameras. These cameras offer the advantage of operating at exceptionally high frame rates, making them ideal for optical imaging with genetically encoded voltage sensors (GEVIs). To facilitate the seamless capture, processing, and real-time recording of high frame rate camera data, we have developed an open-source Python-based framework. Within this framework, we have created a user-friendly Graphical User Interface (GUI).
+### pySPAD — high-speed SPAD imaging platform
 
-Our GUI enables users to effortlessly capture, process, and record high frame rate camera data in real-time. Additionally, our platform includes various other modules, allowing for offline analysis of high-dimensional SPAD-camera data. For those interested in accessing our framework, the GitHub repository can be found at[link](https://github.com/MattNolanLab/pySPAD), while the documentation can be accessed online at link [link](https://pyspad.readthedocs.io/en/main/).
+**Open-source software · neuroscience imaging · Python**
 
+pySPAD is a unified framework for acquiring, processing and analysing high-frame-rate data from SPAD cameras. It includes a graphical interface for real-time acquisition and visualisation, ROI-based signal extraction, image processing utilities and offline analysis tools for high-dimensional imaging datasets.
 
+[GitHub repository](https://github.com/MattNolanLab/pySPAD) · [Documentation](https://pyspad.readthedocs.io/en/main/)
 
+---
 
-**Machine Learning for Large-Scale Extracellular Neural Recording Analysis**
+### SPAD-based neural imaging
 
- 
-![image](/assets/dis_1.png) | ![image](/assets/dis_2.png)
+**PhD research · photon counting · detector modelling**
 
-In this project, a large-scale extracellular neural recording data was analysed. 
-The project consisted of using variational autoencoder to localize individual spikes. 
-Once the localization was achieved, each spikes were clustered based on their waveform shapes and location information. 
-At the end, each detected spikes were assigned to its true neuron using micrograph image provided with the data. 
-The main contribution of the project was to develop a novel validation method for spike sorting algorithms.  
+My PhD research investigated how SPAD-based cameras can be used for fast optical measurements of neural activity. The work combined detector modelling, simulations and experiments to study trade-offs involving photon detection efficiency, dark counts, temporal resolution, dynamic range, ROI size and signal-to-noise ratio.
 
+The broader aim was to understand when high-speed single-photon imaging offers an advantage for applications such as fiber photometry and genetically encoded voltage imaging.
 
-**Deep learning for Nickel-price forecasting** 
+---
 
-The application of deep learning algorithms holds immense potential in the field of time-series forecasting. In a collaborative effort, I partnered with researchers from the Mining Engineering department at Cukurova University and the Electrical and Electronics Engineering department at Adana Alparslan Turkes Science and Technology University. Together, we aimed to predict short-term Nickel prices within a medium- to long-term horizon.
+### Time-gated Raman spectroscopy
 
-My primary contribution to this project involved the design and implementation of deep learning algorithms, specifically LSTM and GRU networks, tailored for time-series forecasting. The methods employed and the resulting findings of our work have been documented in a paper published in the Journal of Resources Policy. The paper, which provides comprehensive details, can be accessed online via the following link: [link](https://www.sciencedirect.com/science/article/abs/pii/S0301420722003506). 
+**Postdoctoral research · biomedical optics · spectroscopy**
 
+At the University of Glasgow I am developing time-gated Raman spectroscopy and imaging approaches for measurements affected by strong fluorescence backgrounds. The work involves optical-system design, temporal gating, spectrometer integration and evaluation of fast detectors, including intensified cameras and SPAD-based sensors.
 
+A longer-term goal is to combine precise time gating with single-photon sensitivity for biomedical and stand-off Raman measurements.
 
-**A Cloud Based Smart Irrigation System** 
+---
 
-![image](/assets/irrigation.jpg)
+### Physics-informed reconstruction for SPAD imaging
 
-Irrigation systems play a key role in order to decrease unnecessary water
- usage around the world. To this end, agriculture professionals developed 
- a pan based irrigation system. In this method, farmers calculate the amount of
- water utilized by the farm and the irrigation is carried out based on this calculation. 
- However, this method involves with calculations with bare eyes on the farm, which are 
- usually far away from the city centre. We developed a smart irrigation system to automate 
- all the tasks by using internet of things (ioT) architectures. You can find the details of 
- the project in this [link](https://ieeexplore.ieee.org/abstract/document/8376641) where we present on an international conference in Greece. 
- 
- **Automatic Detection of Sea Turtle's Traces from Aerial Images** 
+**Computational imaging · self-supervised learning · photon statistics**
 
-![image](/assets/cu_dis.PNG) | ![image](/assets/cu_dis_2.PNG)
+This work explores denoising and reconstruction methods that incorporate the measurement physics of photon-counting detectors. The aim is to combine self-supervised learning with forward models that account for photon statistics, detector efficiency and dark counts, enabling reconstruction without requiring perfectly clean training targets.
 
-This project was carried out in collaboration with WWF. 
-The main idea was to develop an automated path following algorithm for an aerial 
-image to find the regions in which sea turtles nest. Matlab was used as an environment 
-and project consisted of Naïve Bayes algorithm.   
+## Earlier projects
+
+### Machine learning for large-scale extracellular neural recordings
+
+![Extracellular recording analysis](/assets/dis_1.png)
+
+For my MSc dissertation I used machine-learning methods to analyse large-scale extracellular neural recordings. The project included variational-autoencoder-based spike localisation, clustering using waveform and spatial information, and a validation strategy that used micrograph-derived neuron locations to assess spike-sorting performance.
+
+### Deep learning for nickel-price forecasting
+
+I collaborated on a time-series forecasting project using recurrent neural networks, including LSTM and GRU models, to predict nickel prices. My main contribution was the design and implementation of the deep-learning models.
+
+[Published article](https://www.sciencedirect.com/science/article/abs/pii/S0301420722003506)
+
+### Cloud-based smart irrigation
+
+![Smart irrigation system](/assets/irrigation.jpg)
+
+We developed an Internet-of-Things system to automate irrigation measurements and reduce the need for manual field calculations. The project combined sensing, communication and cloud-based monitoring.
+
+[Conference paper](https://ieeexplore.ieee.org/abstract/document/8376641)
+
+### Automatic detection of sea-turtle traces from aerial images
+
+![Sea turtle trace detection](/assets/cu_dis.PNG)
+
+In collaboration with WWF, this project explored automatic detection of sea-turtle tracks in aerial imagery to help identify nesting regions. The workflow used image processing and a Naive Bayes classifier implemented in MATLAB.
