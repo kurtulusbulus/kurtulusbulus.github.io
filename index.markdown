@@ -6,7 +6,6 @@ permalink: /
 <section class="hero">
   <div class="hero-copy">
     <p class="eyebrow">POSTDOCTORAL RESEARCHER · UNIVERSITY OF GLASGOW</p>
-    <h1>Imaging, photonics and computation for biomedical research.</h1>
     <p class="hero-lead">I am a researcher with a multidisciplinary background spanning engineering, neuroscience and computational methods. My interests centre on biomedical imaging, optical instrumentation, photon-counting technologies and computational approaches to measurement and reconstruction.</p>
     <div class="hero-actions">
       <a class="button primary" href="/research/">Research</a>
