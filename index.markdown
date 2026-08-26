@@ -6,8 +6,8 @@ permalink: /
 <section class="hero">
   <div class="hero-copy">
     <p class="eyebrow">POSTDOCTORAL RESEARCHER · UNIVERSITY OF GLASGOW</p>
-    <h1>Photon-counting imaging for biology.</h1>
-    <p class="hero-lead">I develop imaging systems and computational methods at the intersection of photonics, biomedical engineering and neuroscience, with a focus on SPAD sensors, high-speed neural imaging, time-resolved Raman spectroscopy and physics-informed reconstruction.</p>
+    <h1>Imaging, photonics and computation for biomedical research.</h1>
+    <p class="hero-lead">I am a researcher with a multidisciplinary background spanning engineering, neuroscience and computational methods. My interests centre on biomedical imaging, optical instrumentation, photon-counting technologies and computational approaches to measurement and reconstruction.</p>
     <div class="hero-actions">
       <a class="button primary" href="/research/">Research</a>
       <a class="button" href="/publications/">Publications</a>
@@ -20,39 +20,28 @@ permalink: /
   </div>
 </section>
 
-## Research
+## Research interests
 
 <div class="card-grid">
-  <a class="research-card" href="/research/#spad-based-imaging">
+  <div class="research-card">
     <span class="card-kicker">01</span>
-    <h3>SPAD-Based Imaging</h3>
-    <p>Single-photon detection, high-speed acquisition, detector modelling and neural imaging.</p>
-  </a>
-  <a class="research-card" href="/research/#time-resolved-raman-spectroscopy">
+    <h3>Biomedical Imaging</h3>
+    <p>Advanced imaging technologies for biological and biomedical measurement.</p>
+  </div>
+  <div class="research-card">
     <span class="card-kicker">02</span>
-    <h3>Time-Resolved Raman</h3>
-    <p>Temporal gating, fluorescence rejection and SPAD-enabled biomedical spectroscopy.</p>
-  </a>
-  <a class="research-card" href="/research/#computational-imaging">
+    <h3>Photonics & Instrumentation</h3>
+    <p>Optical systems, photodetection and measurement technologies.</p>
+  </div>
+  <div class="research-card">
     <span class="card-kicker">03</span>
-    <h3>Computational Imaging</h3>
-    <p>Self-supervised denoising, physics-informed reconstruction and photon-limited inference.</p>
-  </a>
-</div>
-
-## Featured project
-
-<div class="feature-panel">
-  <div>
-    <p class="eyebrow">OPEN-SOURCE SOFTWARE</p>
-    <h2>pySPAD</h2>
-    <p>A Python framework for acquisition, real-time processing and analysis of kilohertz SPAD-camera data for neuroscience. The platform combines camera control, ROI-based signal extraction, image processing and offline analysis in a unified workflow.</p>
-    <p><a href="https://github.com/MattNolanLab/pySPAD">GitHub repository →</a> &nbsp; <a href="https://pyspad.readthedocs.io/en/main/">Documentation →</a></p>
+    <h3>Computational Methods</h3>
+    <p>Signal processing, modelling and machine-learning methods for imaging data.</p>
   </div>
 </div>
 
-## Current focus
+## Background
 
-I am currently a postdoctoral researcher in Biomedical Engineering at the University of Glasgow, working on time-gated Raman spectroscopy and imaging. My broader research goal is to combine advanced photodetectors, optical instrumentation and computational methods to improve measurements in photon-limited biological systems.
+I currently work as a postdoctoral researcher in Biomedical Engineering at the University of Glasgow. I completed my PhD in Neuroscience and MSc in Informatics at the University of Edinburgh. My broader interests lie at the interface between physical measurement systems and computational analysis.
 
-[Explore my research →](/research/)
+[More about my research interests →](/research/)
